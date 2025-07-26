@@ -1,0 +1,2 @@
+                              Input Group Model Chain Spatial_label Dihedral_label C-helix_label                          Ligand                                   Ligand_label      X-DFG Φ Ψ            DFG-Asp Φ Ψ              DFG-Phe Φ Ψ χ1        
+ PKA_FRG274_refine_005_BLAminus.pdb   AGC     0     A         DFGin       BLAminus     Chelix-in 274:401,274:501,274:601,274:701         Type1,Allosteric,Allosteric,Allosteric  183T -134.79  156.29  184D   73.68   88.15  185F  -96.32   27.06  273.06

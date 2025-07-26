@@ -1,0 +1,7 @@
+Data/PDB/pdb_files/
+Analysis/IFP/pdb_files
+Analysis/PROTOSS/PDB
+Analysis/PROTOSS/CrystalsFirst
+_Archive/
+*.pdb
+*.cif

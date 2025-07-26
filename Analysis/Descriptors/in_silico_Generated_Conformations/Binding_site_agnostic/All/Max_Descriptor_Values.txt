@@ -1,0 +1,432 @@
+
+
+
+ChEMBL Kinases
+           ID NP-Likeness
+CHEMBL1356390     (3.928)
+CHEMBL1863513     (3.616)
+CHEMBL1774404     (3.495)
+CHEMBL1370284     (3.377)
+CHEMBL2413417     (3.360)
+CHEMBL1323290     (3.345)
+ CHEMBL170518     (3.279)
+
+
+
+ChEMBL Kinases
+           ID    Fsp3
+ CHEMBL485259 (1.000)
+CHEMBL4635281 (1.000)
+CHEMBL4459106 (1.000)
+CHEMBL4445946 (1.000)
+ CHEMBL372764 (1.000)
+  CHEMBL28509 (1.000)
+  CHEMBL23552 (1.000)
+
+
+
+ChEMBL Kinases
+           ID FCStereo
+  CHEMBL23552  (1.000)
+CHEMBL1324201  (0.667)
+CHEMBL1395128  (0.617)
+CHEMBL1596335  (0.600)
+CHEMBL1551271  (0.556)
+CHEMBL4293583  (0.517)
+ CHEMBL194400  (0.500)
+
+
+
+ChEMBL Kinases
+           ID     nSPS
+CHEMBL1596335 (60.968)
+CHEMBL1592444 (58.688)
+ CHEMBL261514 (57.909)
+CHEMBL1557129 (57.576)
+CHEMBL1551271 (57.311)
+CHEMBL1395128 (56.870)
+   CHEMBL8066 (55.000)
+
+
+
+ChEMBL Kinases
+           ID    nPBF
+ CHEMBL275626 (0.150)
+   CHEMBL1342 (0.107)
+CHEMBL1235226 (0.103)
+ CHEMBL485259 (0.097)
+CHEMBL1200904 (0.085)
+ CHEMBL180570 (0.084)
+CHEMBL1364121 (0.083)
+
+
+
+ChEMBL Kinases
+           ID    ΣNPR
+CHEMBL4281099 (1.784)
+CHEMBL4754560 (1.772)
+CHEMBL4749646 (1.770)
+CHEMBL4852110 (1.766)
+CHEMBL4865602 (1.762)
+CHEMBL4211027 (1.747)
+CHEMBL1355783 (1.744)
+
+
+
+ChEMBL PKA
+           ID NP-Likeness
+CHEMBL3099612     (1.837)
+CHEMBL4080906     (1.599)
+  CHEMBL67166     (1.483)
+ CHEMBL388978     (1.292)
+ CHEMBL281948     (1.034)
+ CHEMBL608533     (0.662)
+  CHEMBL60254     (0.544)
+
+
+
+ChEMBL PKA
+           ID    Fsp3
+  CHEMBL67166 (0.889)
+ CHEMBL279185 (0.635)
+ CHEMBL413460 (0.580)
+CHEMBL4080906 (0.567)
+CHEMBL3401984 (0.476)
+CHEMBL3401990 (0.450)
+ CHEMBL495727 (0.421)
+
+
+
+ChEMBL PKA
+           ID FCStereo
+CHEMBL4080906  (0.267)
+CHEMBL3401984  (0.238)
+CHEMBL3401983  (0.211)
+CHEMBL3401990  (0.200)
+ CHEMBL279185  (0.192)
+CHEMBL3401988  (0.182)
+CHEMBL3401979  (0.182)
+
+
+
+ChEMBL PKA
+           ID     nSPS
+CHEMBL4080906 (44.000)
+ CHEMBL388978 (27.286)
+CHEMBL3401984 (26.800)
+ CHEMBL281948 (26.714)
+CHEMBL3401990 (26.233)
+CHEMBL3401983 (26.233)
+CHEMBL3099612 (25.947)
+
+
+
+ChEMBL PKA
+           ID    nPBF
+ CHEMBL148333 (0.061)
+  CHEMBL67166 (0.057)
+CHEMBL3942454 (0.052)
+ CHEMBL266487 (0.052)
+CHEMBL3581116 (0.050)
+  CHEMBL38380 (0.048)
+CHEMBL3581149 (0.047)
+
+
+
+ChEMBL PKA
+           ID    ΣNPR
+ CHEMBL413460 (1.578)
+ CHEMBL279185 (1.499)
+ CHEMBL608533 (1.458)
+ CHEMBL148333 (1.353)
+ CHEMBL266487 (1.340)
+CHEMBL4242549 (1.307)
+CHEMBL1233654 (1.279)
+
+
+
+Fragment Hits
+  ID NP-Likeness
+F313     (0.881)
+F058     (0.682)
+F312     (0.583)
+F322     (0.562)
+F055     (0.402)
+F024     (0.337)
+F310     (0.294)
+
+
+
+Fragment Hits
+  ID    Fsp3
+F313 (1.000)
+F312 (1.000)
+F058 (1.000)
+F055 (0.917)
+F294 (0.769)
+F184 (0.667)
+F283 (0.615)
+
+
+
+Fragment Hits
+  ID FCStereo
+F058  (0.500)
+F055  (0.417)
+F313  (0.333)
+F312  (0.333)
+F032  (0.308)
+F030  (0.308)
+F225  (0.250)
+
+
+
+Fragment Hits
+  ID     nSPS
+F058 (49.500)
+F055 (43.526)
+F312 (40.286)
+F313 (34.385)
+F030 (32.895)
+F032 (31.900)
+F299 (31.000)
+
+
+
+Fragment Hits
+  ID    nPBF
+F312 (0.073)
+F313 (0.067)
+F024 (0.060)
+F189 (0.058)
+F005 (0.056)
+F322 (0.053)
+F264 (0.052)
+
+
+
+Fragment Hits
+  ID    ΣNPR
+F312 (1.359)
+F189 (1.253)
+F024 (1.246)
+F188 (1.233)
+F313 (1.219)
+F299 (1.201)
+F294 (1.199)
+
+
+
+Oral Drugs
+          ID NP-Likeness
+CHEMBL252518     (3.880)
+CHEMBL567597     (3.839)
+  CHEMBL1536     (2.812)
+  CHEMBL1571     (2.789)
+CHEMBL205596     (2.784)
+CHEMBL499915     (2.773)
+   CHEMBL846     (2.652)
+
+
+
+Oral Drugs
+        ID    Fsp3
+ CHEMBL959 (1.000)
+ CHEMBL820 (1.000)
+ CHEMBL807 (1.000)
+ CHEMBL675 (1.000)
+CHEMBL6622 (1.000)
+ CHEMBL660 (1.000)
+ CHEMBL609 (1.000)
+
+
+
+Oral Drugs
+           ID FCStereo
+   CHEMBL1384  (0.833)
+ CHEMBL370143  (0.826)
+ CHEMBL502135  (0.800)
+ CHEMBL296306  (0.750)
+   CHEMBL1661  (0.750)
+   CHEMBL6622  (0.667)
+CHEMBL3989844  (0.667)
+
+
+
+Oral Drugs
+           ID     nSPS
+    CHEMBL807 (64.385)
+   CHEMBL1509 (62.000)
+ CHEMBL252518 (61.800)
+    CHEMBL660 (60.273)
+CHEMBL1200907 (58.167)
+ CHEMBL567597 (57.750)
+CHEMBL1201270 (57.600)
+
+
+
+Oral Drugs
+           ID    nPBF
+    CHEMBL602 (0.132)
+CHEMBL1200434 (0.120)
+CHEMBL1201270 (0.109)
+CHEMBL4594393 (0.107)
+CHEMBL1200331 (0.104)
+  CHEMBL95889 (0.101)
+   CHEMBL1046 (0.101)
+
+
+
+Oral Drugs
+           ID    ΣNPR
+CHEMBL1201270 (1.982)
+    CHEMBL104 (1.713)
+   CHEMBL1544 (1.707)
+    CHEMBL660 (1.669)
+     CHEMBL23 (1.598)
+CHEMBL1908360 (1.583)
+    CHEMBL856 (1.564)
+
+
+
+PDB
+ ID NP-Likeness
+STU     (1.062)
+AMP     (1.016)
+ADP     (0.931)
+ATP     (0.811)
+ACP     (0.811)
+E5E     (0.797)
+ANP     (0.782)
+
+
+
+PDB
+ ID    Fsp3
+8KB (1.000)
+152 (0.857)
+A02 (0.675)
+CDT (0.667)
+8G5 (0.667)
+A03 (0.649)
+SIJ (0.643)
+
+
+
+PDB
+ ID FCStereo
+ATP  (0.400)
+ADP  (0.400)
+ANP  (0.400)
+AMP  (0.400)
+ACP  (0.364)
+Y27  (0.214)
+ARX  (0.214)
+
+
+
+PDB
+ ID     nSPS
+8KB (31.875)
+AMP (28.522)
+ADP (28.481)
+ATP (28.452)
+ANP (28.452)
+ACP (28.452)
+8G5 (27.294)
+
+
+
+PDB
+ ID    nPBF
+8KB (0.091)
+GGB (0.086)
+BJN (0.074)
+152 (0.073)
+GVQ (0.068)
+LL2 (0.067)
+CDT (0.067)
+
+
+
+PDB
+ ID    ΣNPR
+A02 (1.327)
+I5S (1.307)
+9K6 (1.296)
+ARX (1.292)
+B4Z (1.289)
+AO8 (1.289)
+M77 (1.282)
+
+
+
+PKIs
+           ID NP-Likeness
+  Midostaurin     (0.662)
+    Maribavir     (0.139)
+   Pacritinib    (-0.170)
+    Alectinib    (-0.210)
+Catequentinib    (-0.219)
+  Peficitinib    (-0.263)
+Repotrectinib    (-0.529)
+
+
+
+PKIs
+          ID    Fsp3
+Gilteritinib (0.621)
+ Abrocitinib (0.571)
+ Peficitinib (0.556)
+   Maribavir (0.533)
+  Leniolisib (0.524)
+ Trilaciclib (0.500)
+ Tofacitinib (0.500)
+
+
+
+PKIs
+          ID FCStereo
+ Peficitinib  (0.278)
+   Maribavir  (0.267)
+Ritlecitinib  (0.133)
+ Tofacitinib  (0.125)
+Delgocitinib  (0.125)
+Upadacitinib  (0.118)
+ Midostaurin  (0.114)
+
+
+
+PKIs
+            ID     nSPS
+   Peficitinib (37.042)
+Deuruxolitinib (30.565)
+     Maribavir (27.333)
+  Delgocitinib (26.522)
+   Midostaurin (24.163)
+  Ritlecitinib (22.238)
+   Abrocitinib (21.727)
+
+
+
+PKIs
+           ID    nPBF
+Repotrectinib (0.054)
+  Tofacitinib (0.052)
+    Ripasudil (0.051)
+      Fasudil (0.048)
+    Erlotinib (0.048)
+ Ritlecitinib (0.047)
+ Capivasertib (0.047)
+
+
+
+PKIs
+           ID    ΣNPR
+Repotrectinib (1.512)
+  Midostaurin (1.458)
+   Lazertinib (1.428)
+    Nilotinib (1.386)
+ Fostamatinib (1.361)
+   Pacritinib (1.333)
+    Erlotinib (1.322)
