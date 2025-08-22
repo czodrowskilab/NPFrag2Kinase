@@ -1,5 +1,5 @@
-*.xlsx filter=lfs diff=lfs merge=lfs -text
-*.sdf filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
-*.txt filter=lfs diff=lfs merge=lfs -text
-*.smi filter=lfs diff=lfs merge=lfs -text
+Analysis/Descriptors/in_silico_Generated_Conformations/All_Descriptor_Values.xlsx filter=lfs diff=lfs merge=lfs -text
+Data/Analyticon_NatX/NATx_Release_2024_09_02_All_35562_cpds.sdf filter=lfs diff=lfs merge=lfs -text
+Data/COCONUT/COCONUT_DB_*.csv filter=lfs diff=lfs merge=lfs -text
+Data/COCONUT/COCONUT_DB_absoluteSMILES.txt filter=lfs diff=lfs merge=lfs -text
+Data/COCONUT/COCONUT_DB_all_molecule_identifiers.txt filter=lfs diff=lfs merge=lfs -text
